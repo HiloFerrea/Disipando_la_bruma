@@ -8,7 +8,6 @@
 
 <hr>
 
-
 <style>
 .menu {
   display: flex;
@@ -27,7 +26,8 @@
 }
 </style>
 
----
+# Análisis social aplicado
+
 
 
 # Análisis social aplicado
