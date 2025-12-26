@@ -18,13 +18,14 @@
 
 .menu a {
   text-decoration: none;
-  color: #0366d6;
+  color: #555;
 }
 
 .menu a:hover {
   text-decoration: underline;
 }
 </style>
+
 
 # Análisis social aplicado
 
