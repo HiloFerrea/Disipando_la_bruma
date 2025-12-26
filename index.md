@@ -11,18 +11,24 @@
 <style>
 .menu {
   display: flex;
-  gap: 1.2rem;
-  font-weight: 600;
-  margin-bottom: 1rem;
+  gap: 0.6rem;
+  margin-bottom: 1.2rem;
 }
 
 .menu a {
   text-decoration: none;
-  color: #555;
+  color: #333;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-weight: 600;
+  font-size: 0.9rem;
 }
 
 .menu a:hover {
-  text-decoration: underline;
+  background-color: #eaeaea;
+  border-color: #999;
 }
 </style>
 
