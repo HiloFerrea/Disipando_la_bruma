@@ -32,11 +32,6 @@
 }
 </style>
 
-
-# Análisis social aplicado
-
-
-
 # Análisis social aplicado
 
 Producción de datos, análisis y capacitación para políticas públicas.
