@@ -44,6 +44,12 @@
 .project-box h2{
   margin-top:0;
 }
+
+.project-links a + a::before{
+  content:"|";
+  margin:0 0.4rem;
+  color:#9aa0a6;
+}
   
 </style>
 
