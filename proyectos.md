@@ -41,7 +41,7 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 
 ## Pobreza multidimensional
 **Presentación**
-- [Presentación en jornadas (PDF)](docs/pobreza_multidimensional_jornadas.pdf)
+- [Presentación en jornadas (PDF)](docs/JORNADAS_SAN MARTIN_FINAL.pdf)
 
 
 ## Canasta de crianza
