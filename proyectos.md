@@ -56,8 +56,7 @@
 
 # Proyectos y trabajos
 
-En esta sección se presentan proyectos de análisis, producción de indicadores
-y desarrollos aplicados en el ámbito de las políticas públicas.
+En esta sección se reúnen proyectos que articulan análisis, producción de indicadores y desarrollos aplicados, orientados a aportar evidencia y herramientas para las políticas públicas.
 
 <div class="project-box">
 
