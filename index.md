@@ -107,11 +107,11 @@ Rigor metodológico, perspectiva social y transferencia de capacidades.
 
   <!-- Herramientas -->
   <a class="contact-item link" href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank">
-    Tableau Public (perfil 1)
+    Tableau Public (Personal)
   </a>
 
   <a class="contact-item link" href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank">
-    Tableau Public (perfil 2)
+    Tableau Public (DPE)
   </a>
 
   <a class="contact-item link" href="https://streamlit.io/@TU_USUARIO" target="_blank">
