@@ -64,10 +64,15 @@ Implementación de una medición de pobreza multidimensional en la provincia de 
 
 <p><strong>Presentación</strong></p>
 <ul>
-  <li><a href="docs/JORNADAS_SAN_MARTIN_FINAL.pdf">Presentación en jornadas (PDF)</a></li>
+  <li>
+    <a href="/Hilario_Ferrea/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
+      Presentación en jornadas (PDF)
+    </a>
+  </li>
 </ul>
 
 </div>
+
 
 
 
