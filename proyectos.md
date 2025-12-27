@@ -96,7 +96,7 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
     <p style="margin:0 0 0.3rem 0;"><strong>Materiales</strong></p>
 
     <div class="project-links">
-      <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
+      <a href="{{ site.baseurl }}/docs/CANASTA_CRIANZA_METODOLOGIA__PBA.pdf">
         Presentación en jornadas (PDF)
       </a>
       <a href="https://calculadora-crianza-pba-2025.streamlit.app/" target="_blank">
