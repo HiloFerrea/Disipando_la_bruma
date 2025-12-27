@@ -143,10 +143,6 @@ Rigor metodológico, perspectiva social y transferencia de capacidades.
     Tableau Public (DPE)
   </a>
 
-  <a class="contact-item link" href="https://streamlit.io/hiloferrea" target="_blank">
-    Streamlit
-  </a>
-
 </div>
 
 
