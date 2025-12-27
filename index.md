@@ -68,8 +68,7 @@
 
 # Disipando la bruma
 
-Disipando la bruma es un espacio pensado para despejar la complejidad de los datos, producir evidencia y aportar claridad al análisis social y a las políticas públicas.
-
+Un espacio pensado para despejar la complejidad de la gestión de los datos, producir evidencia y aportar claridad al análisis social y al diseño de las políticas públicas.
 ---
 
 ## Presentación
