@@ -62,16 +62,19 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 Implementación de una medición de pobreza multidimensional en la provincia de Buenos Aires, en articulación con UNICEF, que incorpora una etapa cualitativa basada en el <strong>método consensual</strong> para validar indicadores desde las percepciones de la población y complementar las mediciones tradicionales con un enfoque centrado en el bienestar.
 </p>
 
-<p><strong>Presentación</strong></p>
-<ul>
-  <li>
-    <a href="/Hilario_Ferrea/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
-      Presentación en jornadas (PDF)
-    </a>
-  </li>
-</ul>
+<div style="font-size:0.9rem; margin-top:0.4rem;">
+  <p style="margin-bottom:0.2rem;"><strong>Presentación</strong></p>
+  <ul style="margin-top:0;">
+    <li>
+      <a href="/Hilario_Ferrea/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
+        Presentación en jornadas (PDF)
+      </a>
+    </li>
+  </ul>
+</div>
 
 </div>
+>
 
 
 
