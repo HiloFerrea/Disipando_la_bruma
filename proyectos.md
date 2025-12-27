@@ -50,8 +50,13 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 - [Estimación del costo de la crianza en la provincia de Buenos Aires](docs/CANASTA_CRIANZA_METODOLOGIA__PBA.pdf)  
 
 **Herramientas**
-- [Calculadora de Crianza PBA (aplicación interactiva)](https://calculadora-crianza-pba-2025.streamlit.app/)
+- [Calculadora de Crianza PBA (aplicación)](https://calculadora-crianza-pba-2025.streamlit.app/)
 
+
+## Esimador de pobreza e indigencia
+Esta herramienta te ayuda a estimar si tu hogar está en situación de pobreza o indigencia, según quiénes lo integran y el ingreso total mensual que perciben.
+
+- [Calculadora de Pobreza (aplicación)](https://calculadora-pobreza-kkrth2pzeur55gpt2yk2kf.streamlit.app/)
 
 
 ## Indicadores socioeconómicos
