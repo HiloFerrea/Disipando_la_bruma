@@ -66,10 +66,14 @@
 </style>
 
 
-# ¿Qué somos?
+<h1>¿Qué somos?</h1>
 
-**Disipando la Burma** es un espacio pensado para despejar la complejidad de la gestión de los datos, producir evidencia y aportar claridad al análisis social y al diseño de las políticas públicas.
----
+<p style="text-align: justify;">
+  <strong>Disipando la bruma</strong> es un espacio pensado para despejar la complejidad de la gestión de los datos, producir evidencia y aportar claridad al análisis social y al diseño de las políticas públicas.
+</p>
+<hr>
+
+
 
 ## Presentación
 
