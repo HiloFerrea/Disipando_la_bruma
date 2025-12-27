@@ -84,20 +84,26 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
   <h2>Canasta de crianza</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
-    El proyecto desarrolla una metodología y una herramienta de cálculo para estimar el <strong>costo mensual de la crianza</strong> de niñas, niños y adolescentes, integrando el costo de bienes y servicios y la valorización del tiempo de cuidado no remunerado. La estimación contempla diferencias por edad y economías de escala en hogares con más de un NNA, y se orienta al análisis de las condiciones económicas de los hogares y al diseño de políticas públicas.
+    El proyecto desarrolla una metodología y una herramienta de cálculo para estimar el
+    <strong>costo mensual de la crianza</strong> de niñas, niños y adolescentes, integrando el
+    costo de bienes y servicios y la valorización del tiempo de cuidado no remunerado.
+    La estimación contempla diferencias por edad y economías de escala en hogares con
+    más de un NNA, y se orienta al análisis de las condiciones económicas de los hogares
+    y al diseño de políticas públicas.
   </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
     <p style="margin:0 0 0.3rem 0;"><strong>Materiales</strong></p>
 
     <div class="project-links">
-  <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
-    Presentación en jornadas (PDF)
-  </a>
-  <a href="https://calculadora-crianza-pba-2025.streamlit.app/" target="_blank">
-    Calculadora interactiva
-  </a>
-</div>
+      <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
+        Presentación en jornadas (PDF)
+      </a>
+      <a href="https://calculadora-crianza-pba-2025.streamlit.app/" target="_blank">
+        Calculadora interactiva
+      </a>
+    </div>
+  </div>
 
 </div>
 
