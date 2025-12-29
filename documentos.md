@@ -82,7 +82,7 @@
 
 # Informes técnicos/ Documentos de trabajo
 
-En esta sección se reúnen proyectos que articulan análisis, producción de indicadores y desarrollos aplicados, orientados a aportar evidencia y herramientas para las políticas públicas.
+Este espacio agrupa informes técnicos, documentos de trabajo, tableros interactivos y otros desarrollos analíticos orientados generar evidencia y claridad para el análisis social y las políticas públicas.
 
 
 <div class="project-box">
