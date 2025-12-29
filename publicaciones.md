@@ -112,7 +112,5 @@ En esta sección se reúnen informes, documentos metodológicos, presentaciones 
 
 </div>
 
-</div>
-
 <div class="project-box">
 
