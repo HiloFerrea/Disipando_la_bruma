@@ -60,7 +60,7 @@
 # Publicaciones
 
 <p style="font-size:0.95rem; text-align: justify;">
-En esta sección se reúnen informes, documentos metodológicos, presentaciones y materiales de difusión vinculados a proyectos de análisis y producción de información para políticas públicas.
+Aquí se reúnen artículos, capítulos, informes y otros textos que traducen el trabajo analítico en ideas, evidencia y propuestas para el diseño y la discusión de las políticas públicas.
 </p>
 
 <div class="pub-box">
