@@ -55,40 +55,11 @@
 </style>
 
 
-
-
 # Publicaciones
 
 <p style="font-size:0.95rem; text-align: justify;">
 Aquí se reúnen artículos, capítulos, informes y otros textos que traducen el trabajo analítico en ideas, evidencia y propuestas para el diseño y la discusión de las políticas públicas.
 </p>
-
-<div class="pub-box">
-  <h2>Informes y documentos</h2>
-
-  <div class="pub-item">
-    <p class="pub-title">Título del documento</p>
-    <div class="pub-links">
-      <a href="{{ site.baseurl }}/docs/archivo.pdf">PDF</a>
-      <a href="https://..." target="_blank">Enlace</a>
-    </div>
-    <p class="pub-meta">Año · Institución/Evento · Tema</p>
-  </div>
-
-</div>
-
-<div class="pub-box">
-  <h2>Presentaciones</h2>
-
-  <div class="pub-item">
-    <p class="pub-title">Título de la presentación</p>
-    <div class="pub-links">
-      <a href="{{ site.baseurl }}/docs/presentacion.pdf">PDF</a>
-    </div>
-    <p class="pub-meta">Año · Jornadas/Curso · Tema</p>
-  </div>
-
-</div>
 
 ## Presentación
 
