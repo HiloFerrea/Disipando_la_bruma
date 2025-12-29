@@ -60,6 +60,7 @@
 <p style="font-size:0.95rem; text-align: justify;">
 Aquí se reúnen artículos, capítulos, informes y otros textos que traducen el trabajo analítico en ideas, evidencia y propuestas para el diseño y la discusión de las políticas públicas.
 </p>
+<hr>
 
 ## Presentación
 
@@ -73,25 +74,20 @@ ser sostenidas en el tiempo por las organizaciones.
 La propuesta integra generación de datos, análisis aplicado y formación, con foco en problemáticas
 sociales, territoriales y de gestión pública.
 </p>
+<hr>
 
 ### Generación de datos
 <p style="text-align: justify;">
 Diseño y sistematización de indicadores sociales a partir de fuentes oficiales
 y registros administrativos.
 </p>
+<hr>
 
 
 ### Análisis aplicado
 Elaboración de diagnósticos, informes breves y visualizaciones orientadas a
 la gestión pública.
-
-### Herramientas
-Desarrollo de tableros interactivos, calculadoras sociales y prototipos basados
-en datos públicos.
-
-### Capacitación
-Talleres y seminarios orientados a comprender, producir y usar datos en
-contextos reales de trabajo.
+<hr>
 
 <div class="project-box">
 
