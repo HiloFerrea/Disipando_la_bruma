@@ -128,6 +128,7 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
     fuentes y criterios de medición, a partir de datos producidos específicamente para cada proyecto,
     fuentes oficiales y registros administrativos</small>.
   </p>
+  <hr>
 
   <h3>Procesamiento, análisis y georreferenciación de datos</h3>
   <p>
