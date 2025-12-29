@@ -123,7 +123,7 @@ los datos de la Encuesta Permanente a Hogares (EPH) total urbano, para el tercer
   </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
-    <p style="margin:0 0 0.3rem 0;"><strong>Presentación</strong></p>
+    <p style="margin:0 0 0.3rem 0;"><strong>Accesos</strong></p>
 
     <div class="project-links">
       <a href="{{ site.baseurl }}/docs/POBLACION_PBA_5.pdf"> 
