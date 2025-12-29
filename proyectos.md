@@ -55,9 +55,12 @@
 </style>
 
 
-# Proyectos y trabajos
+<h1>Proyectos y trabajos. En qué estamos…</h1>
 
-En esta sección se reúnen proyectos que articulan análisis, producción de indicadores y desarrollos aplicados, orientados a aportar evidencia y herramientas para las políticas públicas.
+<p style="text-align: justify;">
+En esta sección se reúnen los proyectos actuales del espacio, que articulan análisis, producción de indicadores y desarrollos aplicados, orientados a aportar evidencia y herramientas para las políticas públicas.
+</p>
+
 
 <div class="project-box">
 
