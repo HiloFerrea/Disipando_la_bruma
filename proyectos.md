@@ -57,6 +57,16 @@
   width: 100%;
   overflow: hidden;
 }
+
+.embed-container {
+  margin-top: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+.embed-container iframe {
+  background: #ffffff;
+}
   
 </style>
 
@@ -137,23 +147,27 @@ En esta sección se reúnen los proyectos actuales del espacio, que articulan an
 </div>
 
 <div class="project-box">
+
   <h2>Estimador de pobreza e indigencia</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
     Herramienta interactiva para estimar la situación de pobreza e indigencia de un hogar
-    a partir de ingresos, composición y canastas oficiales.
+    a partir de ingresos, composición del hogar y canastas oficiales.
   </p>
 
   <div class="embed-container">
-    <iframe 
-      src="https://tu-app.streamlit.app"
+    <iframe
+      src="https://usuario-app.streamlit.app/?embed=true"
       width="100%"
-      height="650"
+      height="700"
       style="border:0; border-radius:8px;"
-      loading="lazy">
+      loading="lazy"
+      referrerpolicy="no-referrer">
     </iframe>
   </div>
+
 </div>
+
 
 
 ## Indicadores socioeconómicos
