@@ -70,8 +70,8 @@
 <h1>¿Qué es esto?</h1>
 
 <p style="text-align: justify;">
-  Esto no es un porfolio personal. 
-  <strong>Disipando la bruma</strong> es un espacio de producción y difusión de evidencia, pensado para despejar la complejidad de la gestión de los datos,  y aportar claridad al análisis social y al diseño de las políticas públicas.
+Disipando la Bruma <strng>no es un portfolio</strng> personal.
+Es un espacio de trabajo orientado a transformar datos en evidencia para el análisis social y el diseño de políticas públicas.
 </p>
 <hr>
 
