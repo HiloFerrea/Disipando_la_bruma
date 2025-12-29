@@ -103,7 +103,24 @@ La propuesta integra generación de datos, análisis aplicado y formación, con 
 sociales, territoriales y de gestión pública.
 </p>
 
+### Generación de datos
+<p style="text-align: justify;">
+Diseño y sistematización de indicadores sociales a partir de fuentes oficiales
+y registros administrativos.
+</p>
 
+
+### Análisis aplicado
+Elaboración de diagnósticos, informes breves y visualizaciones orientadas a
+la gestión pública.
+
+### Herramientas
+Desarrollo de tableros interactivos, calculadoras sociales y prototipos basados
+en datos públicos.
+
+### Capacitación
+Talleres y seminarios orientados a comprender, producir y usar datos en
+contextos reales de trabajo.
 
 <div class="project-box">
 
