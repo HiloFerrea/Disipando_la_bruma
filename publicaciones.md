@@ -91,10 +91,10 @@ En esta sección se reúnen informes, documentos metodológicos, presentaciones 
 
 <div class="project-box">
 
-  <h2>Pobreza multidimensional</h2>
+  <h2>Feminidad del riesgo de Pobreza y Pobreza extrema en la Argentina</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
-    Implementación de una medición de pobreza multidimensional en la provincia de Buenos Aires, en articulación con UNICEF, que incorpora una etapa cualitativa basada en el <strong>método consensual</strong> para validar indicadores desde las percepciones de la población y complementar las mediciones tradicionales con un enfoque centrado en el bienestar.
+    El objetivo del artículo es cuantificar la feminidad de la pobreza y pobreza extrema monetarias en Argentina en 2022, y analizar los determinantes relacionados con las desigualdades de género en el mercado laboral. Cuando se analiza qué pasaría si las mujeres debieran afrontar los gastos de las canastas básicas con ingresos propios se observa que las brechas de género se profundizan. Esto refleja una mayor vulnerabilidad de las mujeres debido a las desigualdades en el mercado laboral.
   </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
