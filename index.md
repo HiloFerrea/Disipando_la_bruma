@@ -122,7 +122,7 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
 </style>
 
 <div class="caja-servicios">
-  <h3>Generación y diseño de datos</h3>
+  <h3><small>Generación y diseño de datos</small></h3>
   <p>
     <small>Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables,
     fuentes y criterios de medición, a partir de datos producidos específicamente para cada proyecto,
@@ -135,19 +135,22 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
     Limpieza, estandarización, procesamiento y análisis de datos sociales, demográficos y territoriales,
     incorporando técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere.
   </p>
-
+  <hr>
+  
   <h3>Análisis aplicado y producción de evidencia</h3>
   <p>
     Elaboración de diagnósticos, informes, visualizaciones y análisis orientados a la comprensión de
     fenómenos sociales y a la toma de decisiones en la gestión pública.
   </p>
-
+  <hr>
+  
   <h3>Herramientas y visualizaciones</h3>
   <p>
     Desarrollo de tableros interactivos, gráficos, mapas, calculadoras sociales y prototipos basados
     en datos públicos y propios, pensados para facilitar el uso de la información por parte de equipos
     técnicos y decisores.
   </p>
+  <hr>
 
   <h3>Capacitación y transferencia</h3>
   <p>
