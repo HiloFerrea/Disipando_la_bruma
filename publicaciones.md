@@ -62,20 +62,6 @@ Aquí se reúnen artículos, capítulos, informes y otros textos que traducen el
 </p>
 <hr>
 
-## Presentación
-
-<p style="text-align: justify;">
-Trabajo en el análisis de información socioeconómica a partir de datos públicos y registros administrativos,
-con el objetivo de producir diagnósticos claros, herramientas útiles y capacidades técnicas que puedan
-ser sostenidas en el tiempo por las organizaciones.
-</p>
-
-<p style="text-align: justify;">
-La propuesta integra generación de datos, análisis aplicado y formación, con foco en problemáticas
-sociales, territoriales y de gestión pública.
-</p>
-<hr>
-
 ### Generación de datos
 <p style="text-align: justify;">
 Diseño y sistematización de indicadores sociales a partir de fuentes oficiales
