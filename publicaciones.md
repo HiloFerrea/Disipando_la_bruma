@@ -118,4 +118,25 @@ los datos de la Encuesta Permanente a Hogares (EPH) total urbano, para el tercer
     </div>
   </div>
 
+  <div class="project-box">
+
+  <h2>La estimación de la pobreza en la provincia de Buenos Aires  </h2>
+
+  <p style="font-size:0.95rem; text-align: justify;">
+    Este trabajo examina metodologías de medición de la pobreza por ingresos y complementa la medición oficial con estimaciones para la provincia de Buenos Aires en el segundo semestre de 2016, en un contexto de alta relevancia para la política pública. 
+  </p>
+
+  <div style="font-size:0.9rem; margin-top:0.4rem;">
+    <p style="margin:0 0 0.3rem 0;"><strong>Accesos</strong></p>
+
+    <div class="project-links">
+      <a href="{{ site.baseurl }}/docs/POBLACION_PBA_4.pdf"> 
+      Descargar PDF
+      </a>
+    </div>
+  </div>
+
+</div>
+
+
 </div>
