@@ -80,7 +80,7 @@ Es un espacio de trabajo orientado a transformar datos en evidencia para el aná
 <h2>Qué hacemos</h2>
 <p style="text-align: justify;">
 
-Trabajamos en el análisis de información socioeconómica a partir de datos públicos y registros administrativos para producir diagnósticos claros, herramientas útiles y capacidades técnicas sostenibles en el tiempo. La propuesta integra generación de datos, análisis aplicado y formación, con foco en problemáticas sociales, territoriales y de gestión pública, orientadas a la toma de decisiones, el diseño y la evaluación de políticas públicas.
+TTrabajamos en la generación y el análisis de <strong>información social en sentido amplio</strong>, combinando datos propios, datos públicos y registros administrativos para producir evidencia, herramientas y capacidades técnicas orientadas al análisis social y al diseño y la evaluación de políticas públicas.
 </p>
 <hr>
 ---
