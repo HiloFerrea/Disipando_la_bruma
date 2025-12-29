@@ -51,7 +51,7 @@
   margin:0 0.4rem;
   color:#9aa0a6;
 }
-  
+
 </style>
 
 
