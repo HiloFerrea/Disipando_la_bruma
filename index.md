@@ -2,6 +2,7 @@
   <a href="index">Inicio</a>
   <a href="proyectos">Proyectos</a>
   <a href="publicaciones">Publicaciones</a>
+  <a href="documentos">Documentos de trabajo</a>
   <a href="docencia">Docencia</a>
   <a href="#contacto">Contacto</a>
 </nav>
