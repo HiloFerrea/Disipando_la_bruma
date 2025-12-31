@@ -119,7 +119,7 @@
 </style>
 
 
-<h1>¿Qué es esto?</h1>
+<h1 class="centered-title">¿Qué es esto?</h1>
 
 <p style="text-align: justify;">
 Disipando la Bruma <strong>no es un portfolio</strong> personal.
@@ -129,7 +129,7 @@ Es un espacio de trabajo orientado a transformar datos en evidencia para el aná
 
 
 
-<h2>Qué hacemos</h2>
+<h2 class="centered-title">>Qué hacemos</h2>
 <p style="text-align: justify;">
 
 TTrabajamos en la generación y el análisis de <strong>información social en sentido amplio</strong>, combinando datos propios, datos públicos y registros administrativos para producir evidencia, herramientas y capacidades técnicas orientadas al análisis social y al diseño y la evaluación de políticas públicas.
