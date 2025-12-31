@@ -160,8 +160,8 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
   <div class="contact-row">
     <span class="contact-label">Correo</span>
     <div class="contact-box">
-      <a class="contact-item link" href="mailto:hiloferrea@gmail.com">📧 hiloferrea@gmail.com</a>
-      <a class="contact-item link" href="mailto:hferrea@estadistica.ec.gba.gov.ar">📧 hferrea@estadistica.ec.gba.gov.ar</a>
+      <a class="contact-item link" href="mailto:hiloferrea@gmail.com">hiloferrea@gmail.com</a>
+      <a class="contact-item link" href="mailto:hferrea@estadistica.ec.gba.gov.ar">hferrea@estadistica.ec.gba.gov.ar</a>
     </div>
   </div>
 
