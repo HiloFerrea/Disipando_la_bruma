@@ -72,7 +72,7 @@
 }
 
 .contact-mails .contact-item{
-  font-size:.88rem;   
+  font-size:.9rem;   
 }
 
 
