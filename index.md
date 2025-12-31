@@ -212,14 +212,22 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
   <!-- GitHub -->
   <a href="https://github.com/HiloFerrea"
      target="_blank" rel="noopener" aria-label="GitHub">
-    <i class="fa-brands fa-github"></i  >
+    <i class="fa-brands fa-github"></i>
+  </a>
+
+  <!-- Tableau Personal -->
+  <a href="https://public.tableau.com/app/profile/hilario.ferrea"
+     target="_blank" rel="noopener" aria-label="Tableau Public Personal">
+    <img src="assets/img/tableau.svg"
+         alt="Tableau Public – Personal"
+         class="contact-logo">
   </a>
 
   <!-- Tableau DPE -->
   <a href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales"
      target="_blank" rel="noopener" aria-label="Tableau Public DPE">
     <img src="assets/img/tableau.svg"
-         alt="Tableau Public DPE"
+         alt="Tableau Public – DPE"
          class="contact-logo">
   </a>
 
