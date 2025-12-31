@@ -55,7 +55,7 @@
 }
 
 .contact-icons{
-  display:flex;              /* 👈 esto los pone en línea */
+  display:flex;
   align-items:center;
   gap:.6rem;
   margin-top:.45rem;
@@ -71,6 +71,12 @@
   border-radius:8px;
   background:#ffffff;
   color:#2b6cb0;
+  text-decoration:none;
+}
+
+.contact-icons a:hover{
+  background:#f3f4f6;
+  border-color:#bdbdbd;
 }
 
 .contact-icons i{
@@ -80,6 +86,7 @@
 .contact-logo{
   height:18px;
   width:auto;
+  display:block;
 }
 
   
@@ -194,25 +201,25 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
 <hr>
   
 <div class="contact-box contact-icons">
-  <a href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank" rel="noopener" aria-label="LinkedIn">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hilario-ferrea-544521158"
+     target="_blank" rel="noopener" aria-label="LinkedIn">
     <i class="fa-brands fa-linkedin-in"></i>
   </a>
 
-  <a href="https://github.com/HiloFerrea" target="_blank" rel="noopener" aria-label="GitHub">
-    <i class="fa-brands fa-github"></i>
+  <!-- GitHub -->
+  <a href="https://github.com/HiloFerrea"
+     target="_blank" rel="noopener" aria-label="GitHub">
+    <i class="fa-brands fa-github"></i  >
   </a>
 
-  <a href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank" rel="noopener" aria-label="Tableau Public">
-    <img src="https://www.tableau.com/sites/default/files/pages/tableau_corporate_logo.svg"
-         alt="Tableau"
-         class="contact-logo">
-  </a>
-
+  <!-- Tableau DPE -->
   <a href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales"
-     target="_blank" rel="noopener"
-     aria-label="Tableau DPE">
-    <img src="https://www.tableau.com/sites/default/files/pages/tableau_corporate_logo.svg"
-         alt="Tableau DPE"
+     target="_blank" rel="noopener" aria-label="Tableau Public DPE">
+    <img src="assets/img/tableau.svg"
+         alt="Tableau Public DPE"
          class="contact-logo">
   </a>
+
 </div>
