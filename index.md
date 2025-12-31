@@ -55,7 +55,9 @@
 }
 
 .contact-icons{
-  gap:.5rem;
+  display:flex;              /* 👈 esto los pone en línea */
+  align-items:center;
+  gap:.6rem;
   margin-top:.45rem;
 }
 
@@ -69,12 +71,15 @@
   border-radius:8px;
   background:#ffffff;
   color:#2b6cb0;
+}
+
+.contact-icons i{
   font-size:1.1rem;
 }
 
-.contact-icons a:hover{
-  background:#f3f4f6;
-  border-color:#bdbdbd;
+.contact-logo{
+  height:18px;
+  width:auto;
 }
 
   
@@ -198,17 +203,16 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
   </a>
 
   <a href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank" rel="noopener" aria-label="Tableau Public">
-    <i class="fa-solid fa-chart-bar"></i>
+    <img src="https://www.tableau.com/sites/default/files/pages/tableau_corporate_logo.svg"
+         alt="Tableau"
+         class="contact-logo">
   </a>
 
-  <a href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank" rel="noopener" aria-label="Tableau DPE">
-    <i class="fa-solid fa-building-columns"></i>
+  <a href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales"
+     target="_blank" rel="noopener"
+     aria-label="Tableau DPE">
+    <img src="https://www.tableau.com/sites/default/files/pages/tableau_corporate_logo.svg"
+         alt="Tableau DPE"
+         class="contact-logo">
   </a>
-</div>
-rel="noopener">LinkedIn</a>
-      <a class="contact-item link" href="https://github.com/HiloFerrea" target="_blank" rel="noopener">GitHub</a>
-      <a class="contact-item link" href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank" rel="noopener">Tableau (Personal)</a>
-      <a class="contact-item link" href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank" rel="noopener">Tableau (DPE)</a>
-    </div>
-  </div>
 </div>
