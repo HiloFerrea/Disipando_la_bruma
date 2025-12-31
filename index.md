@@ -35,6 +35,10 @@
   border-color:#bdbdbd;
 }
 
+.centered-title{
+  text-align:center;
+}
+
 .contact-title{
   margin: .2rem 0 .6rem 0;
   font-weight:600;
@@ -129,7 +133,7 @@ Es un espacio de trabajo orientado a transformar datos en evidencia para el aná
 
 
 
-<h2 class="centered-title">>Qué hacemos</h2>
+<h2 class="centered-title">Qué hacemos</h2>
 <p style="text-align: justify;">
 
 TTrabajamos en la generación y el análisis de <strong>información social en sentido amplio</strong>, combinando datos propios, datos públicos y registros administrativos para producir evidencia, herramientas y capacidades técnicas orientadas al análisis social y al diseño y la evaluación de políticas públicas.
