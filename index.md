@@ -165,6 +165,8 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
     </div>
   </div>
 
+<hr>
+
   <div class="contact-row">
     <span class="contact-label">Perfiles</span>
     <div class="contact-box">
