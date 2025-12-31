@@ -57,6 +57,7 @@
 .contact-icons{
   display:flex;
   align-items:center;
+  justify-content:center;
   gap:.6rem;
   margin-top:.45rem;
 }
