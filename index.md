@@ -35,9 +35,13 @@
   border-color:#bdbdbd;
 }
 
- .contact-block{
-  margin-top:.2rem;
+.contact-box{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.6rem;
+  justify-content:center;   /* 👈 centra los mails */
 }
+
 
 .contact-row{
   display:flex;
