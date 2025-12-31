@@ -138,10 +138,7 @@
 }
 
   
-
-
 </style>
-
 
 <h1 class="centered-title">¿Qué es esto?</h1>
 
@@ -152,7 +149,6 @@ Es un espacio de trabajo orientado a transformar datos en evidencia para el aná
 <hr>
 
 
-
 <h2 class="centered-title">Qué hacemos</h2>
 <p style="text-align: justify;">
 
@@ -160,6 +156,120 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 </p>
 <hr>
 ---
+
+<style>
+  html{ scroll-behavior:smooth; }
+
+  .ppdac-wrap{
+    display:flex;
+    justify-content:center;
+    margin:1rem 0 1.2rem 0;
+  }
+
+  .ppdac-svg{
+    width:min(620px, 100%);
+    height:auto;
+  }
+
+  .ppdac-seg{
+    cursor:pointer;
+    transition: opacity .15s ease, filter .15s ease;
+  }
+  .ppdac-seg:hover{
+    opacity:.92;
+    filter: brightness(0.98);
+  }
+
+  /* Texto: legibilidad */
+  .ppdac-label{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    letter-spacing: .10em;
+    fill: #111827;              /* negro/azul muy oscuro (se lee) */
+    paint-order: stroke;        /* borde detrás del texto */
+    stroke: rgba(255,255,255,.9);
+    stroke-width: 4px;
+  }
+
+  .ppdac-center{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    fill: #374151;
+  }
+</style>
+
+<div class="ppdac-wrap">
+  <svg class="ppdac-svg" viewBox="0 0 520 520" role="img" aria-label="Ciclo PPDAC interactivo">
+    <!-- Donut centrado -->
+    <g transform="translate(260,260)">
+      <!-- Parámetros:
+           radio 170, stroke 54 (más grueso = mejor lectura)
+           Circ ≈ 2π*170 = 1068.14
+           gap 16 => seg ≈ (1068.14-80)/5 = 197.63
+           step = 213.63
+      -->
+      <g transform="rotate(-90)">
+        <!-- PROBLEMA -->
+        <a href="#ppdac-problema" aria-label="Problema" tabindex="0">
+          <circle class="ppdac-seg" r="170" cx="0" cy="0"
+                  fill="none" stroke="#159957" stroke-width="54"
+                  stroke-dasharray="197.63 870.51" stroke-dashoffset="0"/>
+        </a>
+
+        <!-- PLAN -->
+        <a href="#ppdac-plan" aria-label="Plan" tabindex="0">
+          <circle class="ppdac-seg" r="170" cx="0" cy="0"
+                  fill="none" stroke="#1e6bb8" stroke-width="54"
+                  stroke-dasharray="197.63 870.51" stroke-dashoffset="-213.63"/>
+        </a>
+
+        <!-- DATOS -->
+        <a href="#ppdac-datos" aria-label="Datos" tabindex="0">
+          <circle class="ppdac-seg" r="170" cx="0" cy="0"
+                  fill="none" stroke="#2b7bb9" stroke-width="54"
+                  stroke-dasharray="197.63 870.51" stroke-dashoffset="-427.26"/>
+        </a>
+
+        <!-- ANÁLISIS -->
+        <a href="#ppdac-analisis" aria-label="Análisis" tabindex="0">
+          <circle class="ppdac-seg" r="170" cx="0" cy="0"
+                  fill="none" stroke="#3f8fd2" stroke-width="54"
+                  stroke-dasharray="197.63 870.51" stroke-dashoffset="-640.89"/>
+        </a>
+
+        <!-- CONCLUSIONES -->
+        <a href="#ppdac-conclusiones" aria-label="Conclusiones" tabindex="0">
+          <circle class="ppdac-seg" r="170" cx="0" cy="0"
+                  fill="none" stroke="#2aa198" stroke-width="54"
+                  stroke-dasharray="197.63 870.51" stroke-dashoffset="-854.52"/>
+        </a>
+      </g>
+
+      <!-- Centro -->
+      <circle r="110" cx="0" cy="0" fill="#ffffff"/>
+      <text x="0" y="8" text-anchor="middle" class="ppdac-center" font-size="26">PPDAC</text>
+
+      <!-- Etiquetas (más grandes + borde blanco para contraste) -->
+      <text x="0" y="-185" text-anchor="middle" class="ppdac-label" font-size="16">PROBLEMA</text>
+
+      <text x="195" y="-12" text-anchor="middle" class="ppdac-label" font-size="16"
+            transform="rotate(72 195 -12)">PLAN</text>
+
+      <text x="115" y="182" text-anchor="middle" class="ppdac-label" font-size="16"
+            transform="rotate(144 115 182)">DATOS</text>
+
+      <text x="-115" y="182" text-anchor="middle" class="ppdac-label" font-size="16"
+            transform="rotate(-144 -115 182)">ANÁLISIS</text>
+
+      <text x="-195" y="-12" text-anchor="middle" class="ppdac-label" font-size="16"
+            transform="rotate(-72 -195 -12)">CONCLUSIONES</text>
+    </g>
+  </svg>
+</div>
+
+
+
+
 <style>
   .caja-servicios{
     border: 1px solid #e1e4e8;
