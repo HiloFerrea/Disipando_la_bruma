@@ -173,98 +173,113 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 
   .ppdac-seg{
     cursor:pointer;
-    transition: opacity .15s ease, filter .15s ease;
+    transition: opacity .15s ease;
   }
-  .ppdac-seg:hover{
-    opacity:.92;
-    filter: brightness(0.98);
-  }
+  .ppdac-seg:hover{ opacity:.9; }
 
-  /* Texto: legibilidad */
   .ppdac-label{
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    font-weight: 800;
-    letter-spacing: .10em;
-    fill: #111827;              /* negro/azul muy oscuro (se lee) */
-    paint-order: stroke;        /* borde detrás del texto */
-    stroke: rgba(255,255,255,.9);
-    stroke-width: 4px;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight:700;
+    letter-spacing:.08em;
+    fill:#ffffff;
+    pointer-events:none; /* el click sigue siendo del arco */
   }
 
   .ppdac-center{
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    font-weight: 800;
-    fill: #374151;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight:800;
+    fill:#374151;
   }
 </style>
 
 <div class="ppdac-wrap">
-  <svg class="ppdac-svg" viewBox="0 0 520 520" role="img" aria-label="Ciclo PPDAC interactivo">
-    <!-- Donut centrado -->
-    <g transform="translate(260,260)">
-      <!-- Parámetros:
-           radio 170, stroke 54 (más grueso = mejor lectura)
-           Circ ≈ 2π*170 = 1068.14
-           gap 16 => seg ≈ (1068.14-80)/5 = 197.63
-           step = 213.63
-      -->
-      <g transform="rotate(-90)">
-        <!-- PROBLEMA -->
-        <a href="#ppdac-problema" aria-label="Problema" tabindex="0">
-          <circle class="ppdac-seg" r="170" cx="0" cy="0"
-                  fill="none" stroke="#159957" stroke-width="54"
-                  stroke-dasharray="197.63 870.51" stroke-dashoffset="0"/>
-        </a>
+<svg class="ppdac-svg" viewBox="0 0 520 520" role="img" aria-label="Ciclo PPDAC interactivo">
 
-        <!-- PLAN -->
-        <a href="#ppdac-plan" aria-label="Plan" tabindex="0">
-          <circle class="ppdac-seg" r="170" cx="0" cy="0"
-                  fill="none" stroke="#1e6bb8" stroke-width="54"
-                  stroke-dasharray="197.63 870.51" stroke-dashoffset="-213.63"/>
-        </a>
+  <defs>
+    <!-- Arcos para texto (radio intermedio del anillo) -->
+    <path id="arc-problema" d="M260 90
+      A170 170 0 0 1 430 260" />
+    <path id="arc-plan" d="M430 260
+      A170 170 0 0 1 260 430" />
+    <path id="arc-datos" d="M260 430
+      A170 170 0 0 1 90 260" />
+    <path id="arc-analisis" d="M90 260
+      A170 170 0 0 1 260 90" />
+    <path id="arc-conclusiones" d="M260 90
+      A170 170 0 0 1 430 260" />
+  </defs>
 
-        <!-- DATOS -->
-        <a href="#ppdac-datos" aria-label="Datos" tabindex="0">
-          <circle class="ppdac-seg" r="170" cx="0" cy="0"
-                  fill="none" stroke="#2b7bb9" stroke-width="54"
-                  stroke-dasharray="197.63 870.51" stroke-dashoffset="-427.26"/>
-        </a>
+  <!-- Segmentos -->
+  <g transform="rotate(-90 260 260)">
+    <a href="#ppdac-problema">
+      <circle class="ppdac-seg" cx="260" cy="260" r="170"
+        fill="none" stroke="#159957" stroke-width="54"
+        stroke-dasharray="198 870" stroke-dashoffset="0"/>
+    </a>
 
-        <!-- ANÁLISIS -->
-        <a href="#ppdac-analisis" aria-label="Análisis" tabindex="0">
-          <circle class="ppdac-seg" r="170" cx="0" cy="0"
-                  fill="none" stroke="#3f8fd2" stroke-width="54"
-                  stroke-dasharray="197.63 870.51" stroke-dashoffset="-640.89"/>
-        </a>
+    <a href="#ppdac-plan">
+      <circle class="ppdac-seg" cx="260" cy="260" r="170"
+        fill="none" stroke="#1e6bb8" stroke-width="54"
+        stroke-dasharray="198 870" stroke-dashoffset="-214"/>
+    </a>
 
-        <!-- CONCLUSIONES -->
-        <a href="#ppdac-conclusiones" aria-label="Conclusiones" tabindex="0">
-          <circle class="ppdac-seg" r="170" cx="0" cy="0"
-                  fill="none" stroke="#2aa198" stroke-width="54"
-                  stroke-dasharray="197.63 870.51" stroke-dashoffset="-854.52"/>
-        </a>
-      </g>
+    <a href="#ppdac-datos">
+      <circle class="ppdac-seg" cx="260" cy="260" r="170"
+        fill="none" stroke="#2b7bb9" stroke-width="54"
+        stroke-dasharray="198 870" stroke-dashoffset="-428"/>
+    </a>
 
-      <!-- Centro -->
-      <circle r="110" cx="0" cy="0" fill="#ffffff"/>
-      <text x="0" y="8" text-anchor="middle" class="ppdac-center" font-size="26">PPDAC</text>
+    <a href="#ppdac-analisis">
+      <circle class="ppdac-seg" cx="260" cy="260" r="170"
+        fill="none" stroke="#3f8fd2" stroke-width="54"
+        stroke-dasharray="198 870" stroke-dashoffset="-642"/>
+    </a>
 
-      <!-- Etiquetas (más grandes + borde blanco para contraste) -->
-      <text x="0" y="-185" text-anchor="middle" class="ppdac-label" font-size="16">PROBLEMA</text>
+    <a href="#ppdac-conclusiones">
+      <circle class="ppdac-seg" cx="260" cy="260" r="170"
+        fill="none" stroke="#2aa198" stroke-width="54"
+        stroke-dasharray="198 870" stroke-dashoffset="-856"/>
+    </a>
+  </g>
 
-      <text x="195" y="-12" text-anchor="middle" class="ppdac-label" font-size="16"
-            transform="rotate(72 195 -12)">PLAN</text>
+  <!-- Texto siguiendo los arcos -->
+  <text class="ppdac-label" font-size="14">
+    <textPath href="#arc-problema" startOffset="50%" text-anchor="middle">
+      PROBLEMA
+    </textPath>
+  </text>
 
-      <text x="115" y="182" text-anchor="middle" class="ppdac-label" font-size="16"
-            transform="rotate(144 115 182)">DATOS</text>
+  <text class="ppdac-label" font-size="14">
+    <textPath href="#arc-plan" startOffset="50%" text-anchor="middle">
+      PLAN
+    </textPath>
+  </text>
 
-      <text x="-115" y="182" text-anchor="middle" class="ppdac-label" font-size="16"
-            transform="rotate(-144 -115 182)">ANÁLISIS</text>
+  <text class="ppdac-label" font-size="14">
+    <textPath href="#arc-datos" startOffset="50%" text-anchor="middle">
+      DATOS
+    </textPath>
+  </text>
 
-      <text x="-195" y="-12" text-anchor="middle" class="ppdac-label" font-size="16"
-            transform="rotate(-72 -195 -12)">CONCLUSIONES</text>
-    </g>
-  </svg>
+  <text class="ppdac-label" font-size="14">
+    <textPath href="#arc-analisis" startOffset="50%" text-anchor="middle">
+      ANÁLISIS
+    </textPath>
+  </text>
+
+  <text class="ppdac-label" font-size="14">
+    <textPath href="#arc-conclusiones" startOffset="50%" text-anchor="middle">
+      CONCLUSIONES
+    </textPath>
+  </text>
+
+  <!-- Centro -->
+  <circle cx="260" cy="260" r="110" fill="#ffffff"/>
+  <text x="260" y="270" text-anchor="middle" class="ppdac-center" font-size="26">
+    PPDAC
+  </text>
+
+</svg>
 </div>
 
 
