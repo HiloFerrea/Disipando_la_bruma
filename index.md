@@ -157,6 +157,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 <hr>
 ---
 <h2 class="centered-title">El ciclo de resolución de problemas de datos</h2>
+ <hr>
 
 <style>
   html{ scroll-behavior:smooth; }
@@ -323,12 +324,13 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 
 <h2 id="ppdac-datos" class="ppdac-stage">Datos</h2>
 <hr>
-div class="caja-servicios">
+<div class="caja-servicios">
   <h3>Procesamiento, análisis y georreferenciación de datos</h3>
    <p>
     Limmpieza, estandarización, procesamiento e integración de datos sociales, demográficos y territoriales. Incorporación de técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere, garantizando la calidad y consistencia de la información.
   </p>
   <hr>
+</div>
   
 <h2 id="ppdac-analisis" class="ppdac-stage">Análisis</h2>
 <hr>
@@ -338,6 +340,7 @@ div class="caja-servicios">
     Desarrollo de tableros interactivos, gráficos, mapas, calculadoras sociales y prototipos basados en datos públicos y propios. Transformación de los datos en lectura analítica y visual para facilitar su comprensión, comparación y uso por parte de equipos técnicos y decisores.
   </p>
   <hr>
+</div>
 
 <h2 id="ppdac-conclusiones" class="ppdac-stage">Conclusiones</h2>
 <hr>
