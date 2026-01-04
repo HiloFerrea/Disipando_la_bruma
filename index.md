@@ -332,24 +332,29 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 <h2 id="ppdac-plan" class="ppdac-stage">Plan</h2>
   <hr>
 <div class="caja-servicios">
-  <p class="volver-ciclo">
-  <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
 </p>
   <h3>Generación y diseño de datos</h3>
   <p>
     Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables, fuentes y criterios de medición. Comprende la planificación de datos producidos específicamente para cada proyecto y su articulación con fuentes oficiales y registros administrativos.
   </p>
-  <hr>
+    <p class="volver-ciclo">
+      <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
+  </p>
+    <hr>
 </div>
 
 <h2 id="ppdac-datos" class="ppdac-stage">Datos</h2>
 <hr>
 <div class="caja-servicios">
-  <p class="volver-ciclo">
-  <h3>Procesamiento, análisis y georreferenciación de datos</h3>
+   <h3>Procesamiento, análisis y georreferenciación de datos</h3>
    <p>
     Limmpieza, estandarización, procesamiento e integración de datos sociales, demográficos y territoriales. Incorporación de técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere, garantizando la calidad y consistencia de la información.
   </p>
+    <p class="volver-ciclo">
+      <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
+  </p>
+
+  
   <hr>
 </div>
   
