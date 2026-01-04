@@ -156,6 +156,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 </p>
 <hr>
 ---
+<h2 class="centered-title">El ciclo de resolución de problemas de datos</h2>
 
 <style>
   html{ scroll-behavior:smooth; }
