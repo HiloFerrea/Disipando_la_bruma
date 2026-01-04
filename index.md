@@ -298,6 +298,20 @@ Trabajamos en la generación y el análisis de <strong>información social en se
   text-align: center;
 }
 
+.volver-ciclo{
+  text-align:center;
+  margin: .6rem 0 1.4rem 0;
+}
+
+.volver-ciclo a{
+  font-size:.85rem;
+  text-decoration:none;
+}
+
+.volver-ciclo a:hover{
+  text-decoration:underline;
+}
+
 </style>
 
 
@@ -305,6 +319,9 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 <h2 id="ppdac-problema" class="ppdac-stage">Problema</h2>
   <hr>
 <div class="caja-servicios">
+  <p class="volver-ciclo">
+  <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
+</p>
   <h3>Análisis aplicado y producción de evidencia</h3>
   <p>
     Formulación de la pregunta y construcción del diagnóstico. Elaboración de análisis orientados a la comprensión de fenómenos sociales, identificando patrones, brechas y problemáticas relevantes para la gestión pública y la toma de decisiones.
