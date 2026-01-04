@@ -302,6 +302,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
     Formulación de la pregunta y construcción del diagnóstico. Elaboración de análisis orientados a la comprensión de fenómenos sociales, identificando patrones, brechas y problemáticas relevantes para la gestión pública y la toma de decisiones.
   </p>
   <hr>
+ </div>
 
 ## Plan
   <h3 id="ppdac-datos">Procesamiento, análisis y georreferenciación de datos</h3>
@@ -310,6 +311,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
     incorporando técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere.
   </p>
   <hr>
+</div>
   
   <h3 id="ppdac-problema">Análisis aplicado y producción de evidencia</h3>
   <p>
