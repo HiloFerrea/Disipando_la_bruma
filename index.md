@@ -352,18 +352,19 @@ Trabajamos en la generación y el análisis de <strong>información social en se
     <p class="volver-ciclo">
       <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
   </p>
-
-  
   <hr>
 </div>
+
   
 <h2 id="ppdac-analisis" class="ppdac-stage">Análisis</h2>
 <hr>
 <div class="caja-servicios">
-  <p class="volver-ciclo">
     <h3>Herramientas y visualizaciones</h3>
   <p>
     Desarrollo de tableros interactivos, gráficos, mapas, calculadoras sociales y prototipos basados en datos públicos y propios. Transformación de los datos en lectura analítica y visual para facilitar su comprensión, comparación y uso por parte de equipos técnicos y decisores.
+  </p>
+    <p class="volver-ciclo">
+      <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
   </p>
   <hr>
 </div>
@@ -377,6 +378,10 @@ Trabajamos en la generación y el análisis de <strong>información social en se
   <p>
     iseño y dictado de talleres, seminarios y espacios de formación orientados a fortalecer capacidades para comprender, producir y usar datos en contextos reales de trabajo. Transferencia de resultados, métodos y aprendizajes para su incorporación efectiva en procesos de decisión.
   </p>
+    <p class="volver-ciclo">
+      <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
+  </p>
+  <hr>
 </div>
 
 <hr>
