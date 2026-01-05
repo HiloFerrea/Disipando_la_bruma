@@ -127,7 +127,7 @@ Este espacio agrupa informes técnicos, documentos de trabajo, tableros interact
       <a href="{{ site.baseurl }}/docs/HACEMOS_FUTURO_2022.pdf"> 
       Descargar PDF
        </a>
-      <a href="(https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales/viz/POTENCIAR/Dashboard1)" target="_blank">
+      <a href="(https://public.tableau.com/views/POTENCIAR/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))" target="_blank">
         Ver tablero en Tableau Public
       </a>
     </div>
