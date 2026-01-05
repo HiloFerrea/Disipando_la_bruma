@@ -342,6 +342,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
     <hr>
 </div>
 
+
 <h2 id="ppdac-datos" class="ppdac-stage">Datos</h2>
 <hr>
 <div class="caja-servicios">
@@ -369,9 +370,9 @@ Trabajamos en la generación y el análisis de <strong>información social en se
   <hr>
 </div>
 
+
 <h2 id="ppdac-conclusiones" class="ppdac-stage">Conclusiones</h2>
 <hr>
-
 <div class="caja-servicios">
      <h3>Capacitación y transferencia</h3>
   <p>
