@@ -152,7 +152,7 @@ Es un espacio de trabajo orientado a transformar datos en evidencia para el aná
 <h2 class="centered-title">Qué hacemos</h2>
 <p style="text-align: justify;">
 
-Trabajamos en la generación y el análisis de <strong>información social en sentido amplio</strong>, combinando datos propios, datos públicos y registros administrativos para producir evidencia, herramientas y capacidades técnicas orientadas al análisis social y al diseño y la evaluación de políticas públicas.
+Trabajamos en la generación y el análisis de <strong>información social en sentido amplio</strong>, combinando la utilización de datos propios y datos públicos para producir evidencia, herramientas y capacidades técnicas orientadas al análisis social y al diseño y la evaluación de políticas públicas.
 </p>
 <hr>
 ---
