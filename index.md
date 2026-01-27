@@ -334,7 +334,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 <div class="caja-servicios">
   <h3>Generación y diseño de datos</h3>
   <p>
-    Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables, fuentes y criterios de medición. Comprende la planificación de datos producidos específicamente para cada proyecto y su articulación con fuentes oficiales y registros administrativos.
+    Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables, fuentes y criterios de medición. Comprende la planificación de datos producidos específicamente para cada proyecto y su articulación con fuentes  disponibles.
   </p>
     <p class="volver-ciclo">
       <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
@@ -348,7 +348,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 <div class="caja-servicios">
    <h3>Procesamiento, análisis y georreferenciación de datos</h3>
    <p>
-    Limmpieza, estandarización, procesamiento e integración de datos sociales, demográficos y territoriales. Incorporación de técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere, garantizando la calidad y consistencia de la información.
+    Limmpieza, estandarización, procesamiento e integración de datos. Incorporación de técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere, garantizando la calidad y consistencia de la información.
   </p>
     <p class="volver-ciclo">
       <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
@@ -362,7 +362,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 <div class="caja-servicios">
     <h3>Herramientas y visualizaciones</h3>
   <p>
-    Desarrollo de tableros interactivos, gráficos, mapas, calculadoras sociales y prototipos basados en datos públicos y propios. Transformación de los datos en lectura analítica y visual para facilitar su comprensión, comparación y uso por parte de equipos técnicos y decisores.
+    Desarrollo de tableros interactivos, gráficos, mapas, herramientas interactivas  y prototipos basados en la información utilizada. Transformación de los datos en lectura analítica y visual para facilitar su comprensión, comparación y uso por parte de equipos técnicos y decisores.
   </p>
     <p class="volver-ciclo">
       <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
@@ -376,7 +376,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 <div class="caja-servicios">
      <h3>Capacitación y transferencia</h3>
   <p>
-    iseño y dictado de talleres, seminarios y espacios de formación orientados a fortalecer capacidades para comprender, producir y usar datos en contextos reales de trabajo. Transferencia de resultados, métodos y aprendizajes para su incorporación efectiva en procesos de decisión.
+    Diseño y dictado de talleres, seminarios y espacios de formación orientados a fortalecer capacidades para comprender, producir y usar datos en contextos reales de trabajo. Transferencia de resultados, métodos y aprendizajes para su incorporación efectiva en procesos de decisión.
   </p>
     <p class="volver-ciclo">
       <a href="#ppdac-ciclo">↑ Volver al ciclo</a>
