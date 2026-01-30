@@ -153,6 +153,15 @@ Este espacio agrupa informes técnicos, documentos de trabajo, tableros interact
       <a href="{{ site.baseurl }}/docs/MERCEDES_2024.pdf"> 
       Descargar PDF
       </a>
+      <a href="https://public.tableau.com/views/CUP_2022_MAPA/MAPA_?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_linK"
+         target="_blank" rel="noopener">
+        Ver tablero en Tableau Public
+      </a>
+    </div>
+  </div>
+
+</div>
+      
     </div>
   </div>
 </div>
