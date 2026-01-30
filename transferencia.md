@@ -93,7 +93,7 @@ Aquí se reúnen experiencias de transferencias que articulan <strong>investigac
     <p style="margin:0 0 0.3rem 0;"><strong>Accesos</strong></p>
 
     <div class="project-links">
-      <a href="{{ site.baseurl }}/docs/UDE_1.pdf"> 
+      <a href="{{ site.baseurl }}/docs/UDE_2025.pdf"> 
       Descargar PDF
       </a>
     </div>
