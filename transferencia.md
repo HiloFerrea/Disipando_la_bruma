@@ -58,7 +58,7 @@
 # Transferencia
 
 <p style="font-size:0.95rem; text-align: justify;">
-Aquí se reúnen experiencias de transferencia que articulan investigación, formación y producción de herramientas, orientadas a ampliar capacidades y generar conocimiento aplicado.
+Aquí se reúnen experiencias de transferencias que articulan <strong>investigación</strong>, <strong>formación</strong> y <strong>producción de herramientas</strong>, orientadas a ampliar capacidades y generar conocimiento aplicado.
 </p>
 <hr>
 
