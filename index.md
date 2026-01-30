@@ -149,14 +149,14 @@ Es un espacio de trabajo orientado a transformar datos en evidencia para el aná
 <hr>
 
 
-<h2 class="centered-title">Qué hacemos</h2>
+<h2 class="centered-title">Lo que hacemos</h2>
 <p style="text-align: justify;">
 
 Trabajamos en la generación y el análisis de <strong>información social en sentido amplio</strong>, combinando la utilización de datos propios y datos públicos para producir evidencia, herramientas y capacidades técnicas orientadas al análisis social y al diseño y la evaluación de políticas públicas.
 </p>
 <hr>
 
-<h2 class="centered-title">Cómo trabajamos</h2>
+<h2 class="centered-title">Cómo lo hacemos</h2>
 <p>
 El enfoque que guía este proyecto se enmarca en el ciclo <strong>PPDAC</strong> (Problem–Plan–Data–Analysis–Conclusion), un modelo para la resolución de problemas con datos desarrollado por <strong>R. J. MacKay</strong> y <strong>R. W. Oldford</strong>, y difundido para públicos más amplios por autores como <strong>David Spiegelhalter</strong>.
 </p>
