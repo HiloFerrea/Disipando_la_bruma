@@ -161,7 +161,3 @@ Este espacio agrupa informes técnicos, documentos de trabajo, tableros interact
   </div>
 
 </div>
-      
-    </div>
-  </div>
-</div>
