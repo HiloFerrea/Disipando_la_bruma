@@ -138,7 +138,7 @@ En esta sección se reúnen los proyectos actuales del espacio, que articulan an
     <p style="margin:0 0 0.3rem 0;"><strong>Aplicación</strong></p>
 
     <div class="project-links">
-      <a href="https://calculadora-pobreza-kkrth2pzeur55gpt2yk2kf.streamlit.app/" target="_blank">
+      <a href="https://calculadora-pobreza-hf.streamlit.app/" target="_blank">
         Calculadora de Pobreza (aplicación)
       </a>
     </div>
