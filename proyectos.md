@@ -144,4 +144,22 @@ En esta sección se reúnen los proyectos actuales del espacio, que articulan an
     </div>
   </div>
 
+<div class="project-box">
+
+  <h2>Encuesta Provincial de Actividades de Niños, Niñas y Adolescentes 2025 (EPANNA-2025)</h2>
+
+  <p style="font-size:0.95rem; text-align: justify;">
+    La EPANNA-2025 tuvo como objetivo recopilar información sobre las principales actividades que realizan los NNyA en su vida cotidiana en la PBA, con especial énfasis en aquellas que permitieron medir y caracterizar la situación del TIG (5 a 17 años) en la Provincia. A partir de esta información se buscó efectuar un diagnóstico integral en la PBA y en diversas desagregaciones geográficas.
+  </p>
+
+  <div style="font-size:0.9rem; margin-top:0.4rem;">
+    <p style="margin:0 0 0.3rem 0;"><strong>Informe</strong></p>
+
+    <div class="project-links">
+      <a href=""https://track-web-dpe.estadistica.ec.gba.gov.ar/uploads/INFORME_EPANNA_FINAL_e788c01d6a.pdf" target="_blank">
+        EPANNA-2025 (PDF)
+      </a>
+    </div>
+  </div>
+
 </div>
