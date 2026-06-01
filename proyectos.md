@@ -156,7 +156,7 @@ En esta sección se reúnen los proyectos actuales del espacio, que articulan an
     <p style="margin:0 0 0.3rem 0;"><strong>Informe</strong></p>
 
     <div class="project-links">
-      <a href=""https://track-web-dpe.estadistica.ec.gba.gov.ar/uploads/INFORME_EPANNA_FINAL_e788c01d6a.pdf" target="_blank">
+      <a href="https://track-web-dpe.estadistica.ec.gba.gov.ar/uploads/INFORME_EPANNA_FINAL_e788c01d6a.pdf" target="_blank">
         EPANNA-2025 (PDF)
       </a>
     </div>
