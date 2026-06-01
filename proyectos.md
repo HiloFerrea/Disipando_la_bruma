@@ -144,6 +144,8 @@ En esta sección se reúnen los proyectos actuales del espacio, que articulan an
     </div>
   </div>
 
+</div>
+
 <div class="project-box">
 
   <h2>Encuesta Provincial de Actividades de Niños, Niñas y Adolescentes 2025 (EPANNA-2025)</h2>
