@@ -100,6 +100,27 @@ En esta sección se reúnen los proyectos actuales del espacio, que articulan an
 
 <div class="project-box">
 
+  <h2>uenta satélite del trabajo no remunerado en la provincia de Buenos Aires</h2>
+
+  <p style="font-size:0.95rem; text-align: justify;">
+    Primera estimación oficial del aporte económico del trabajo no remunerado (TNR) al Producto Bruto Geográfico (PBG) de la provincia de Buenos Aires. El estudio visibiliza el valor económico de las tareas domésticas y de cuidados no remuneradas y evidencia su contribución estratégica al funcionamiento de la economía provincial.
+  </p>
+
+  <div style="font-size:0.9rem; margin-top:0.4rem;">
+    <p style="margin:0 0 0.3rem 0;"><strong>Presentación</strong></p>
+
+    <div class="project-links">
+      <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf"> 
+      Informes (PDF)
+      </a>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="project-box">
+
   <h2>Canasta de crianza</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
