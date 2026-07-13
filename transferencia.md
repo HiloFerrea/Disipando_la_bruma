@@ -64,17 +64,21 @@ Aquí se reúnen experiencias de transferencias que articulan <strong>investigac
 
 <div class="project-box">
 
-  <h2>Base Microdatos EPH (Encuesta Permanente de Hogares) de 2016 a 2024</h2>
+  <h2>Base de microdatos de la EPH (Encuesta Permanente de Hogares), 2016–2024</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
-    Se trata de una base generada a partir de los microdatos de la Encuesta Permanente de Hogares -EPH- que publica el INDEC, para la cual se calcularon nuevas variables utilizadas en el desarrollo del Artículo <strong>Feminidad del Riesgo de Pobreza y Pobreza extrema en la Argentina </strong>(Monteverde y Ferrea, 2024) y para el análisis de la evolución temporal de las brechas de género de la pobreza e indigencia en Argentina durante 2016-2024, cuyos resultados fueron discutidos en la mesa redonda Pobreza y desigualdades en el Cono Sur: transformaciones recientes, persistencias estructurales y desafíos emergentes, durante XVIII Jornadas Argentinas de Estudios de Población - V Congreso Internacional de Población del Cono Sur, de la Asociación de Estudios de Población de la Argentina, el 24 de septiembre de 2025, en Córdoba, Argentina. 
-      </p>
-    <div class="project-links">
-      <a href="[https://ri.conicet.gov.ar/handle/11336/289127#anchorFiles]" target="_blank">
-        
-       Descargar material
-         </a>
+    Base de datos elaborada a partir de los microdatos de la Encuesta Permanente de Hogares (EPH) publicados por el INDEC. Incluye un conjunto de variables derivadas desarrolladas para el artículo <strong>Feminidad del Riesgo de Pobreza y Pobreza Extrema en la Argentina</strong> (Monteverde y Ferrea, 2024) y para el análisis de la evolución de las brechas de género en la pobreza y la indigencia en Argentina durante el período 2016–2024.
+    <br><br>
+    Los resultados obtenidos fueron presentados y discutidos en la mesa redonda <em>Pobreza y desigualdades en el Cono Sur: transformaciones recientes, persistencias estructurales y desafíos emergentes</em>, realizada en el marco de las XVIII Jornadas Argentinas de Estudios de Población y V Congreso Internacional de Población del Cono Sur, organizados por la Asociación de Estudios de Población de la Argentina (AEPA), el 24 de septiembre de 2025, en la ciudad de Córdoba, Argentina.
+  </p>
+
+  <div class="project-links">
+    <a href="https://ri.conicet.gov.ar/handle/11336/289127#anchorFiles" target="_blank">
+      Descargar material
+    </a>
   </div>
+
+</div>
 
 <div class="project-box">
 
