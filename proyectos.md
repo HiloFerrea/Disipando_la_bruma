@@ -77,6 +77,8 @@
 En esta sección se reúnen los proyectos actuales del espacio, que articulan análisis, producción de indicadores y desarrollos aplicados, orientados a aportar evidencia y herramientas para las políticas públicas.
 </p>
 
+<div class="project-box">
+
 <h2>Cuenta satélite del trabajo no remunerado en la provincia de Buenos Aires</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
@@ -95,8 +97,6 @@ En esta sección se reúnen los proyectos actuales del espacio, que articulan an
 
 </div>
 
-
-<div class="project-box">
 
 <div class="project-box">
 
