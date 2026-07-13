@@ -144,6 +144,7 @@
 <h1 class="centered-title">Sobre este espacio</h1>
 <p style="text-align: justify;">
 <strong>Disipando la Bruma</strong> es un espacio dedicado a transformar datos en evidencia, herramientas y conocimiento aplicado para el análisis social y el diseño, seguimiento y evaluación de políticas públicas.
+  <br><br>
 Integra proyectos de investigación, construcción de indicadores, procesamiento de información, visualización de datos y transferencia de capacidades, con especial atención a las condiciones de vida, la desigualdad, el mercado de trabajo y las dinámicas demográficas.
 </p>
 <hr>
