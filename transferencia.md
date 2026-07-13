@@ -69,6 +69,10 @@ Aquí se reúnen experiencias de transferencias que articulan <strong>investigac
   <p style="font-size:0.95rem; text-align: justify;">
     Se trata de una base generada a partir de los microdatos de la Encuesta Permanente de Hogares -EPH- que publica el INDEC, para la cual se calcularon nuevas variables utilizadas en el desarrollo del Artículo <strong>Feminidad del Riesgo de Pobreza y Pobreza extrema en la Argentina </strong>(Monteverde y Ferrea, 2024) y para el análisis de la evolución temporal de las brechas de género de la pobreza e indigencia en Argentina durante 2016-2024, cuyos resultados fueron discutidos en la mesa redonda Pobreza y desigualdades en el Cono Sur: transformaciones recientes, persistencias estructurales y desafíos emergentes, durante XVIII Jornadas Argentinas de Estudios de Población - V Congreso Internacional de Población del Cono Sur, de la Asociación de Estudios de Población de la Argentina, el 24 de septiembre de 2025, en Córdoba, Argentina. 
       </p>
+    <div class="project-links">
+      <a href="[https://ri.conicet.gov.ar/handle/11336/289127#anchorFiles]" target="_blank">
+        Acceso al material
+      </a>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
     <p style="margin:0 0 0.3rem 0;"><strong>Material</strong></p>
