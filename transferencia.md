@@ -77,6 +77,7 @@ Aquí se reúnen experiencias de transferencias que articulan <strong>investigac
       Descargar material
     </a>
   </div>
+</div>
 
 </div>
 
