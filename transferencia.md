@@ -71,14 +71,9 @@ Aquí se reúnen experiencias de transferencias que articulan <strong>investigac
       </p>
     <div class="project-links">
       <a href="[https://ri.conicet.gov.ar/handle/11336/289127#anchorFiles]" target="_blank">
-        Acceso al material
-      </a>
-
-  <div style="font-size:0.9rem; margin-top:0.4rem;">
-    <p style="margin:0 0 0.3rem 0;"><strong>Material</strong></p>
-    <a href="{{ site.baseurl }}/docs/TALLER_AEPA_2025.pdf">
-      Descargar PDF
-    </a>
+        
+       Descargar material
+         </a>
   </div>
 
 <div class="project-box">
