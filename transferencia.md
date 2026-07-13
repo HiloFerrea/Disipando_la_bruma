@@ -67,7 +67,7 @@ Aquí se reúnen experiencias de transferencias que articulan <strong>investigac
   <h2>Base Microdatos EPH (Encuesta Permanente de Hogares) de 2016 a 2024</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
-    Se trata de una base generada a partir de los microdatos de la Encuesta Permanente de Hogares -EPH- que publica el INDEC, para la cual se calcularon nuevas variables utilizadas en el desarrollo del Artículo <strong>Feminidad del Riesgo de Pobreza y Pobreza extrema en la Argentina (Monteverde y Ferrea, 2024) y para el análisis de la evolución temporal de las brechas de género de la pobreza e indigencia en Argentina durante 2016-2024, cuyos resultados fueron discutidos en la mesa redonda Pobreza y desigualdades en el Cono Sur: transformaciones recientes, persistencias estructurales y desafíos emergentes, durante XVIII Jornadas Argentinas de Estudios de Población - V Congreso Internacional de Población del Cono Sur, de la Asociación de Estudios de Población de la Argentina, el 24 de septiembre de 2025, en Córdoba, Argentina. 
+    Se trata de una base generada a partir de los microdatos de la Encuesta Permanente de Hogares -EPH- que publica el INDEC, para la cual se calcularon nuevas variables utilizadas en el desarrollo del Artículo <strong>Feminidad del Riesgo de Pobreza y Pobreza extrema en la Argentina </strong>(Monteverde y Ferrea, 2024) y para el análisis de la evolución temporal de las brechas de género de la pobreza e indigencia en Argentina durante 2016-2024, cuyos resultados fueron discutidos en la mesa redonda Pobreza y desigualdades en el Cono Sur: transformaciones recientes, persistencias estructurales y desafíos emergentes, durante XVIII Jornadas Argentinas de Estudios de Población - V Congreso Internacional de Población del Cono Sur, de la Asociación de Estudios de Población de la Argentina, el 24 de septiembre de 2025, en Córdoba, Argentina. 
       </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
@@ -76,7 +76,6 @@ Aquí se reúnen experiencias de transferencias que articulan <strong>investigac
       Descargar PDF
     </a>
   </div>
-</div>
 
 <div class="project-box">
 
