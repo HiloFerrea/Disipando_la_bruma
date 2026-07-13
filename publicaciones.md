@@ -4,6 +4,7 @@
   <a href="publicaciones">Publicaciones</a>
   <a href="documentos">Documentos de trabajo</a>
   <a href="transferencia">Transferencia</a>
+   <a href="enfoque">Nuestro enfoque</a>
 </nav>
 
 <hr>
