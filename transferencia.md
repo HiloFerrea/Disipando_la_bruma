@@ -79,8 +79,6 @@ Aquí se reúnen experiencias de transferencias que articulan <strong>investigac
   </div>
 </div>
 
-</div>
-
 <div class="project-box">
 
   <h2>Feminización de la pobreza. Aspectos conceptuales y herramientas de análisis</h2>
